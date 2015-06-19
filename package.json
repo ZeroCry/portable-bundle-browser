@@ -1,0 +1,13 @@
+{
+  "name": "portable-bundle-browser",
+  "version": "0.0.1",
+  "description": "portable.js browser bundle",
+  "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/streamich/portable-bundle-browser.git"
+  },
+  "license": "Unlicense",
+  "dependencies": {},
+  "devDependencies": {}
+}
